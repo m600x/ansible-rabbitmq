@@ -51,7 +51,7 @@ rabbitmq_ssl_listeners: []
 # - 127.0.0.1
 # - "::1"
 
-rabitmq_ssl_options: {}
+rabbitmq_ssl_options: {}
 # cacertfile: '"/path/to/testca/cacert.pem"'
 # certfile: '"/path/to/server/cert.pem"'
 # keyfile: '"/path/to/server/key.pem"'
